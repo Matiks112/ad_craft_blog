@@ -1,8 +1,5 @@
-This is a test for an automatic blog update for Adventure Craft
+New file
 
--Head Dev Matiks112
+<3
 
-Addon 1: akjdbgkahldgkhkasgnalknalngha
-asjhgkashdgkja
-agjhiasgha
-Another test - Matiks112
+AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
