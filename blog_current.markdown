@@ -1,5 +1,3 @@
-New file
+Place holder for an Adventure Craft Blog
 
-<3
-
-AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                <3 
