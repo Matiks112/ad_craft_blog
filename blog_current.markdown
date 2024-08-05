@@ -10,4 +10,4 @@ Some of the new exciting features include:
 - Complete overhaul of The End and Nether including new biomes, structures and mobs.
 
 We are happy for all of your support and hope that you will enjoy this new season!
-                                                            -Adventure Craft Staff
+                                                            -__Adventure Craft Staff__
